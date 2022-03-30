@@ -1,5 +1,5 @@
 - 👋 Hi, I’m King Wai Chow
-- 👀 I’m interested in ToF and 3D-centric machine learning
+- 👀 I’m interested in Time-of-Flight (ToF) and 3D-centric machine learning
 
 <!---
 kwchow/kwchow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
